@@ -1,4 +1,5 @@
-# design-patterns-simple
+# design petterns
+   simple explanation
 
 ## creational design pattern 
     *Builder
